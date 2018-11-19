@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="kravchuk.d" />
+    <option name="HOST" value="https://hg.kabra.ru/laximo.ru" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
