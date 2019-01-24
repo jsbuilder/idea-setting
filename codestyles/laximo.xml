@@ -1,5 +1,5 @@
 <code_scheme name="laximo" version="173">
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
@@ -17,6 +17,11 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
+  <codeStyleSettings language="JSON">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
