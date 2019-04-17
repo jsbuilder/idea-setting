@@ -7,7 +7,9 @@
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="2" />
-        <entry key="RUSSIAN" value="2" />
+        <entry key="RUSSIAN" value="3" />
+        <entry key="HAITIAN_CREOLE" value="1" />
+        <entry key="HEBREW" value="1" />
       </map>
     </option>
   </component>
